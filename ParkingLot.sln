@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot", "ParkingLot.csproj", "{1E9CBE9F-E4D9-4C27-9260-843A8A05E01D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FFDBAE02-CD39-4243-B27F-8EA26ACBC828}"
+	ProjectSection(SolutionItems) = preProject
+		Conductor.cs = Conductor.cs
+		Vehiculo.cs = Vehiculo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9CBE9F-E4D9-4C27-9260-843A8A05E01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9CBE9F-E4D9-4C27-9260-843A8A05E01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9CBE9F-E4D9-4C27-9260-843A8A05E01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9CBE9F-E4D9-4C27-9260-843A8A05E01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF0DE26-00ED-4CC9-B983-1A87BD9A5E1D}
+	EndGlobalSection
+EndGlobal
